@@ -28,7 +28,7 @@
     "@thirdweb-dev/chains": "0.1.106",
     "@thirdweb-dev/react-core": "4.6.16",
     "@thirdweb-dev/sdk": "4.0.77",
-    "@thirdweb-dev/storage": "2.0.14",
+    "@thirdweb-dev/storage": "2.0.15",
     "@thirdweb-dev/wallets": "2.5.17",
     "abitype": "1.0.4",
     "aws-amplify": "^6.0.0",
