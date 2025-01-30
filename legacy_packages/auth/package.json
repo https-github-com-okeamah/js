@@ -138,7 +138,7 @@
     "@thirdweb-dev/wallets": "workspace:*",
     "cookie": "^0.7.0",
     "fastify-type-provider-zod": "^1.1.9",
-    "uuid": "^9.0.1",
+    "uuid": "^11.0.4",
     "zod": "3.23.8"
   },
   "engines": {
