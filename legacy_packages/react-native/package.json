@@ -30,7 +30,7 @@
     "@thirdweb-dev/sdk": "4.0.77",
     "@thirdweb-dev/storage": "2.0.14",
     "@thirdweb-dev/wallets": "2.5.17",
-    "abitype": "1.0.4",
+    "abitype": "1.0.8",
     "aws-amplify": "^6.0.0",
     "expo-application": "5.8.3",
     "expo-clipboard": "^5.0.0",
