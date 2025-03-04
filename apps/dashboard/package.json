@@ -61,7 +61,7 @@
     "@thirdweb-dev/wallets": "workspace:*",
     "@vercel/og": "^0.6.2",
     "abitype": "1.0.5",
-    "chakra-react-select": "^4.7.6",
+    "chakra-react-select": "^6.0.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "color": "^4.2.3",
