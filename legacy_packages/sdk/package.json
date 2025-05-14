@@ -147,7 +147,7 @@
     "tweetnacl": "^1.0.3",
     "uuid": "^9.0.1",
     "yaml": "^2.4.5",
-    "zod": "3.23.8"
+    "zod": "3.24.3"
   },
   "bugs": {
     "url": "https://github.com/thirdweb-dev/js/issues"
