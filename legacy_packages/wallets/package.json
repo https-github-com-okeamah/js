@@ -544,7 +544,7 @@
     "@walletconnect/utils": "^2.13.2",
     "@walletconnect/web3wallet": "^1.12.2",
     "asn1.js": "5.4.1",
-    "bn.js": "5.2.1",
+    "bn.js": "5.2.2",
     "buffer": "^6.0.3",
     "eth-provider": "^0.13.6",
     "ethereumjs-util": "^7.1.5",
