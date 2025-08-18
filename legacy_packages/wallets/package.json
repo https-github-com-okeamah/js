@@ -520,7 +520,7 @@
   "sideEffects": false,
   "dependencies": {
     "@account-abstraction/contracts": "^0.5.0",
-    "@blocto/sdk": "0.10.2",
+    "@blocto/sdk": "0.10.4",
     "@coinbase/wallet-sdk": "^4.3.7",
     "@google-cloud/kms": "^4.4.0",
     "@magic-ext/connect": "^6.7.2",
