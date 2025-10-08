@@ -34,7 +34,7 @@
     "aws-amplify": "^6.0.0",
     "expo-application": "5.8.3",
     "expo-clipboard": "^5.0.0",
-    "expo-document-picker": "^11.10.1",
+    "expo-document-picker": "^14.0.7",
     "expo-file-system": "^18.0.5",
     "expo-secure-store": "^12.8.1",
     "react-native-modal": "^13.0.1",
