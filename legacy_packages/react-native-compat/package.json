@@ -18,7 +18,7 @@
     "base-64": "^1.0.0",
     "big-integer": "^1.6.52",
     "react-native-get-random-values": "^1.11.0",
-    "react-native-url-polyfill": "^2.0.0"
+    "react-native-url-polyfill": "^3.0.0"
   },
   "peerDependencies": {
     "ethers": "^5.5.1",
