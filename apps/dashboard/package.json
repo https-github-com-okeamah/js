@@ -83,7 +83,7 @@
     "nextjs-toploader": "^1.6.12",
     "papaparse": "^5.4.1",
     "pluralize": "^8.0.0",
-    "posthog-js": "1.128.3",
+    "posthog-js": "1.274.3",
     "posthog-js-opensource": "npm:posthog-js@1.67.1",
     "prettier": "^3.3.2",
     "prism-react-renderer": "^2.3.1",
